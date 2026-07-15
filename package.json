@@ -59,7 +59,7 @@
     "start-server-and-test": "^1.7.11",
     "webpack": "^4",
     "webpack-cli": "^3.0.8",
-    "webpack-dev-server": "^3"
+    "webpack-dev-server": "^5"
   },
   "dependencies": {
     "@instructure/canvas-theme": "^7",
